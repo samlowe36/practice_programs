@@ -9,3 +9,5 @@ the word_replacement is an extremely simple starter program that just has a phra
 the calculator app i created I improved upon. Often when you see basic little calculator program tutorials on youtube, they wont include exponents and they won't have a handling for dividing by zero. I added both of those into it with an exponent function and a try/except block for dividng by zero.
 
 the email_slicer is also extremely basic and just cuts an email into a domain, username, and extension.
+
+the binary_search was interesting as I had never looked into the logic of how it works. I want to test it on much larger data to see just how much faster it can be.
