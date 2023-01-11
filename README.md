@@ -11,3 +11,5 @@ the calculator app i created I improved upon. Often when you see basic little ca
 the email_slicer is also extremely basic and just cuts an email into a domain, username, and extension.
 
 the binary_search was interesting as I had never looked into the logic of how it works. I want to test it on much larger data to see just how much faster it can be.
+
+Both the QR code generator and the interest calculator are very simple implementations. The QR code specifically I thought would be a lot more difficult, but I was able to import in the package qrcode which really takes care of most of it for you.
