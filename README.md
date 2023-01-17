@@ -15,3 +15,5 @@ the binary_search was interesting as I had never looked into the logic of how it
 Both the QR code generator and the interest calculator are very simple implementations. The QR code specifically I thought would be a lot more difficult, but I was able to import in the package qrcode which really takes care of most of it for you.
 
 The password_generator uses the random module of course and it is another I ended up improving from the youtube video I was following along with. It did not originally have any way to handle exceptions if someone entered something wrong in the input but I added that in as a failsafe.
+
+The quiz wasn't anything special, although it is something I want to go back and flesh out more. the implementation is just a for loop going through a dictionary and keeping track of correct answers.
