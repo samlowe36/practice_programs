@@ -17,3 +17,5 @@ Both the QR code generator and the interest calculator are very simple implement
 The password_generator uses the random module of course and it is another I ended up improving from the youtube video I was following along with. It did not originally have any way to handle exceptions if someone entered something wrong in the input but I added that in as a failsafe.
 
 The quiz wasn't anything special, although it is something I want to go back and flesh out more. the implementation is just a for loop going through a dictionary and keeping track of correct answers.
+
+The video I was learning from made a very basic dice roller that would roll 2 d6's and show a visual of what was rolled. I was not happy with this at all and drastically altered it. For one, I dropped the visual because I didn't find it necessary. Then, I altered the program so that it could roll a d4, d6, d8, d10, d12, d20, or a d100. Lasstly, I added an exception block that was shockingly missing from the original program to make sure nobody could break the program by entering in something other than the inputs specified.
